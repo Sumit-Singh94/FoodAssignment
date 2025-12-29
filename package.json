@@ -2,6 +2,9 @@
   "name": "food-product-explorer",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": ">=18.18.0"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -20,5 +23,3 @@
     "vite": "^6.0.1"
   }
 }
-
-
