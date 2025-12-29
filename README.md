@@ -2,7 +2,7 @@ Food Product Explorer
 
 Overview
 
-This project involves the design and implementation of a web-based Food Product Explorer using the Foods public API. The application enables users to search, filter, sort, and examine detailed information about food products through an intuitive and responsive user interface. The solution emphasizes modular architecture, effective API integration, and adherence to modern front-end development practices.
+This project involves the design and implementation of a web-based Foods page using the Foods public API. The application enables users to search, filter, sort, and examine detailed information about food products through an intuitive and responsive user interface. The solution emphasizes modular architecture, effective API integration, and adherence to modern front-end development practices.
 
 Objective
 
